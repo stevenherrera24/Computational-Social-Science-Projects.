@@ -1,0 +1,8 @@
+cd Computational-Social-Science-Projects.
+mkdir Project1
+cd Project1
+touch text_file
+nano text_file
+git add *
+git commit -m “created text file and added info to it”
+git push -u origin main
